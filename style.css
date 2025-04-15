@@ -14,6 +14,7 @@ body {
 
 /* Estrutura principal */
 .container {
+    
     font-size: 18px;
     width: 80%;
     margin: auto;
@@ -99,7 +100,7 @@ nav ul li a:hover {
 .button {
     
     padding: 0.5rem 1rem;
-    background: #333;
+    background: #8a8989;
     color: #fff;
     text-decoration: none;
     border-radius: 25px;
@@ -129,7 +130,7 @@ nav ul li a:hover {
 .projeto-h3 {
     text-align: center;
 }
-.projeto-clima-img {
+.project-img {
     
     display: flex;
     justify-content: center;
@@ -163,8 +164,10 @@ nav ul li a:hover {
 .projeto-button:hover {
     background-color: #024fa1; 
 }
-.button-app-clima {
-    background: white;
+.button-div{
+    
+    
+    background-color: #fff;
     display: flex;
     justify-content: center;
     gap: 80px;
